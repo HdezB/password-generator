@@ -8,9 +8,9 @@ which will recieve certain criteria form the user
 and it transalates those criterias into a password.
 
 ## Built With
-*Html
-*CSS
-*JS
+* HTML
+* CSS
+* JS
 
 ## Website
 https://hdezb.github.io/password-generator/
